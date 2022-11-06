@@ -7,7 +7,7 @@ Locally, I need 2 repositories
 
 Make Changes to the pages in this repo
 
-Publish this changes at the Command line
+Publish these changes at the Command line
 
     mkdocs gh-deploy --config-file ../my-website/mkdocs.yml --remote-branch master
 
