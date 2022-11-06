@@ -16,7 +16,7 @@
 </tr>
 </table>
 
-Eric has been married to Shari for over 26 years.  Eric and Shari live in Chapel Hill, NC with their dog Sophie.  Their daughters, Linnea and Isabel are students at WCU and are graduating soon.
+Eric has been married to Shari for over 26 years.  Eric and Shari live in Chapel Hill, NC with their dog Sophie.  Their daughters, Linnea and Isabel are college students and are graduating soon.
 ![picture of Starr family](images/family.jpeg "Starrs") ![picture of Sophie](images/Sophie.jpeg "Sophie") ![picture of Starr Home](images/StarrHome-FrontView.jpg "Starr Home")
 
 DevOps Director:  Eric is a Subject Matter Expert in Cloud Architecture (AWS) and DevOps
