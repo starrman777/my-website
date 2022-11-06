@@ -1,0 +1,13 @@
+site_name: Eric Starr
+site_url: https://starrman777.github.io/
+nav:
+    - Home: index.md
+    - About: about.md
+    - DevOps: devops.md
+    - Crypto: crypto.md
+    - Concealed Carry: nccch.md
+    - Rock Climbing: climbing.md
+    - Presentations: presentations.md
+    - God: god.md
+theme: 
+  name: 'readthedocs' 
