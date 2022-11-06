@@ -1,4 +1,4 @@
-## I am a North Carolina Concealed Carry Instructor
+# I am a North Carolina Concealed Carry Instructor
 
 I often find that many people are of the belief that if you are a "gun person" that you must have grown up that way.  My interest in firearms began when a friend of mine and his family were attacked during a home invasion about 12 years ago.  While my friend's situation ended tragically with the loss of his life, even though he was not armed, he was able to save the life of his family.  
 

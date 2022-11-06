@@ -1,4 +1,4 @@
-## Rock Climbing
+# Rock Climbing
 
 Wy wife and I love indoor rock climbing. We love the challenge and we wish we were better at it than we are :-)
 

@@ -1,4 +1,4 @@
-## DevOps and Cloud
+# DevOps and Cloud
 
 This is my area of expertise.  I have (Nov 2022) approximately 12 years experience developing software applications and then another 12+ years experience automating the build, test and deployment of applications.  Over the past few years I have applied these skills in the Cloud (AWS).
 

@@ -1,4 +1,4 @@
-## The God Page
+# The God Page
 
 Ha!  I have to laugh a little at the fear that some must feel when they click on this page.  They are afraid that someone is going to launch into some sort of religious diatribe.  I totally understand because I don't like it either when someone does that.  You can relax.  You are safe here!
 
