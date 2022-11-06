@@ -1,5 +1,4 @@
 site_name: Eric Starr
-site_url: https://starrman777.github.io/
 nav:
     - Home: index.md
     - About: about.md
