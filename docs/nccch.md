@@ -1,10 +1,10 @@
 # I am a North Carolina Concealed Carry Instructor
 
-I often find that many people are of the belief that if you are a "gun person" that you must have grown up that way.  My interest in firearms began when a friend of mine and his family were attacked during a home invasion about 12 years ago.  While my friend's situation ended tragically with the loss of his life, even though he was not armed, he was able to save the life of his family.  
+The Concealed Carry class offers North Carolina residents the opportunity to receive your NC Concealed Carry Handgun (CCH) permit.
 
-At that time I had 2 little girls and a wife.  One of my daughters a week earlier had spent the night at the same home where the attack occurred.  I realized at that time that I had no way of protecting my family if anything like that ever happenned to us and I decided that it was not acceptable that I do nothing about it.  I believe in protecting my family so I began to take many classes.  
-
-Over the years I increased in knowledge and experience and as I learned, I began teaching others.  I decided to get certified as a firearms instructor since I really enjoyed teaching.  I have been doing this for quite a few years!
+Classes:
+- Saturday, Nov 19, 2022: https://dprc.org/event-4993588
+- 1st Qtr of 2023:  A private class for a group of Nurses (date TBD)
 
 If you want to learn more, you can visit my website at <a href="http://trained2carrync.com" target="_blank">http://trained2carrync.com</a>
 
